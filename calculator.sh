@@ -11,3 +11,5 @@ y=10-5;
 
 #multiplication function
 z=5*2;
+
+#division
